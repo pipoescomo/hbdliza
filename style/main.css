@@ -109,7 +109,7 @@ body {
 }
 
 .six .hat {
-  left: 41.5%;
+  left: 45;
   position: absolute;
   /* transform: scale(0.1); */
   top: -35%;
@@ -211,6 +211,12 @@ body {
 
 .wish h5 {
   font-size: 2rem;
+  font-weight: lighter;
+  margin: 10px 0 0;
+}
+
+.wish p {
+  font-size: 1rem;
   font-weight: lighter;
   margin: 10px 0 0;
 }
